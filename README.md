@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Var-Name-jpg (Ethan Walton)</h1>
+<h1 align="center">Hi 👋, I'm Ethan Walton</h1>
 <h3 align="center">A passionate software developer/data analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=var-name-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="var-name-jpg" /> </p>
