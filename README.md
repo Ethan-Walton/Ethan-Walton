@@ -32,27 +32,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Tech Focus
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ethan-Walton&theme=radical" alt="Ethan's GitHub Stats" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Walton&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Walton&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### 📊 GitHub Stats & Metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ethan-Walton&theme=radical" alt="Ethan's GitHub Profile Summary" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/e17e39f7a77d704500075558102eb8682a3930ae.svg" alt="Repobeats Analytics" width="100%" />
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" />
 </p>
 
 ---
