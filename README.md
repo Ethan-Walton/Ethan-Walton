@@ -1,29 +1,47 @@
-<h1 align="center">Hi 👋, I'm Ethan Walton</h1>
-<h3 align="center">A passionate software developer/data analyst</h3>
+# Hi there, I'm Ethan Walton! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=var-name-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="var-name-jpg" /> </p>
-
-- 🔭 I’m currently working on [Procedural Terrain using Custom Noise](https://github.com/Var-Name-jpg/Terrain-Generation)
-
-- 🌱 I’m currently learning **AI Networks and Layers**
-
-- 📫 How to reach me **EthanWalton0418@outlook.com**
-
-- 📄 Know about my experiences [https://etsu.joinhandshake.com/profiles/ethanwalton](https://etsu.joinhandshake.com/profiles/ethanwalton)
-
-- ⚡ Fun fact **I write the best code known to man (up for debate)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/31785504/exlipse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="exlipse" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ethan-Walton&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/ethan-walton-15100a371/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="https://Ethan-Walton.github.io"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Badge" /></a>
+  <a href="mailto:Ethan.Walton1@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=var-name-jpg&show_icons=true&locale=en&layout=compact" alt="var-name-jpg" /></p>
+### 👨‍💻 About Me
+* Cybersecurity / IT / IS student at **East Tennessee State University** (GPA: 3.49/4.0, Dean's List)[cite: 1].
+* Co-Founder and Marketing / UX Designer at **Proactive Survival**, where we achieved a 300% growth in purchases over three months[cite: 1].
+* Experienced in leadership roles ranging from Assistant Manager at FYE to student tutor (CRLA Level 3 Certified)[cite: 1].
+* Passionate about systems security, software development, game programming, and community building.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=var-name-jpg&show_icons=true&locale=en" alt="var-name-jpg" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=var-name-jpg&" alt="var-name-jpg" /></p>
+### 🛠️ Tech Stack & Skills
 
+* **Languages & Low-Level:** C, C#, VBA, Python, Hexadecimal, Binary
+* **Frameworks & Engines:** Unity Game Engine
+* **Tools & Environment:** Git, Vim
+* **Core Competencies:** UX/UI Design, Marketing Strategy, Logical Programming Design, Staff Scheduling, and Problem-Solving
+
+---
+
+### 🚀 What I'm Up To
+* **Current Studies:** Advancing through my Bachelor's degree and the Cybersecurity ABM Program at ETSU[cite: 1].
+* **Activities & Interests:** Member of the Bushcraft Wilderness Survival Club, Bucs'N'Billiards Club, skateboarding, and exploring game programming[cite: 1].
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Walton&show_icons=true&theme=radical&hide_border=true" alt="Ethan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Walton&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+* **Portfolio Website:** [Ethan-Walton.github.io](https://Ethan-Walton.github.io)[cite: 1]
+* **LinkedIn:** [Ethan Walton](https://www.linkedin.com/in/ethan-walton-15100a371/)
+* **Email:** [Ethan.Walton1@outlook.com](mailto:Ethan.Walton1@outlook.com)[cite: 1]
