@@ -10,9 +10,9 @@
 ---
 
 ### 👨‍💻 About Me
-* Cybersecurity / IT / IS student at **East Tennessee State University** (GPA: 3.49/4.0, Dean's List)[cite: 1].
-* Co-Founder and Marketing / UX Designer at **Proactive Survival**, where we achieved a 300% growth in purchases over three months[cite: 1].
-* Experienced in leadership roles ranging from Assistant Manager at FYE to student tutor (CRLA Level 3 Certified)[cite: 1].
+* Cybersecurity / IT / IS student at **East Tennessee State University** (GPA: 3.49/4.0, Dean's List).
+* Co-Founder and Marketing / UX Designer at **Proactive Survival**, where we achieved a 300% growth in purchases over three months.
+* Experienced in leadership roles ranging from Assistant Manager at FYE to student tutor (CRLA Level 3 Certified).
 * Passionate about systems security, software development, game programming, and community building.
 
 ---
@@ -27,8 +27,8 @@
 ---
 
 ### 🚀 What I'm Up To
-* **Current Studies:** Advancing through my Bachelor's degree and the Cybersecurity ABM Program at ETSU[cite: 1].
-* **Activities & Interests:** Member of the Bushcraft Wilderness Survival Club, Bucs'N'Billiards Club, skateboarding, and exploring game programming[cite: 1].
+* **Current Studies:** Advancing through my Bachelor's degree and the Cybersecurity ABM Program at ETSU.
+* **Activities & Interests:** Member of the Bushcraft Wilderness Survival Club, Bucs'N'Billiards Club, skateboarding, and exploring game programming.
 
 ---
 
@@ -42,6 +42,6 @@
 ---
 
 ### 📫 Connect With Me
-* **Portfolio Website:** [Ethan-Walton.github.io](https://Ethan-Walton.github.io)[cite: 1]
+* **Portfolio Website:** [Ethan-Walton.github.io](https://Ethan-Walton.github.io)
 * **LinkedIn:** [Ethan Walton](https://www.linkedin.com/in/ethan-walton-15100a371/)
-* **Email:** [Ethan.Walton1@outlook.com](mailto:Ethan.Walton1@outlook.com)[cite: 1]
+* **Email:** [Ethan.Walton1@outlook.com](mailto:Ethan.Walton1@outlook.com)
