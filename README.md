@@ -45,6 +45,18 @@
 
 ---
 
+### 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ethan-Walton&theme=radical" alt="Ethan's GitHub Profile Summary" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/e17e39f7a77d704500075558102eb8682a3930ae.svg" alt="Repobeats Analytics" width="100%" />
+</p>
+
+---
+
 ### 📫 Connect With Me
 * **Portfolio Website:** [Ethan-Walton.github.io](https://Ethan-Walton.github.io)
 * **LinkedIn:** [Ethan Walton](https://www.linkedin.com/in/ethan-walton-15100a371/)
