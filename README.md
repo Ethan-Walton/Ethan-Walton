@@ -42,10 +42,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" />
 </p>
-
----
-
-### 📫 Connect With Me
-* **Portfolio Website:** [Ethan-Walton.github.io](https://Ethan-Walton.github.io)
-* **LinkedIn:** [Ethan Walton](https://www.linkedin.com/in/ethan-walton-15100a371/)
-* **Email:** [Ethan.Walton1@outlook.com](mailto:Ethan.Walton1@outlook.com)
